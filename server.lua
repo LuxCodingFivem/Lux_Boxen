@@ -28,7 +28,6 @@ Citizen.CreateThread(function()
     
   if used == true then 
   local xPlayer = ESX.GetPlayerFromId(_source)
-    print('test')
 
     if counter <= Config.howmanyitems then 
       counter = counter + 1
