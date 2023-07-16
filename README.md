@@ -1,4 +1,4 @@
 # LS_Boxen
 Simple Lootbox Script
 
-join on my Discord: https://discord.gg/SZX74tT7Gv
+join on my Discord: https://discord.luxcoding.de
